@@ -1,0 +1,4 @@
+# 指定原始图片的XML和图片的文件夹文字
+DIRECTORY_ANNOTATIONS = 'Annotations/'
+DIRECTORY_IMAGES='JPEGImages/'
+NUM_IMAGES_TFRECORD = 3
