@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bird</folder>
+	<filename>000007.jpg</filename>
+	<path>D:\MyData\zengxf\Downloads\tu\taobao\00 项目\01 目标检测\dataset\bird\000007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>24</ymin>
+			<xmax>414</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>
